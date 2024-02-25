@@ -1,0 +1,107 @@
+.menu{
+    margin-top: 20px;
+    margin-left: auto;
+    width:400px;
+    height: 10vh;
+    
+    
+}
+
+.menu li{
+    list-style: none;
+    display: inline;
+    margin:20px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+}
+
+.button{
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 0%;
+    background-color: #1A73E8;
+}
+
+.button span{
+    color: white;
+    opacity: 95%;
+}
+
+.logo{
+    width: 280px;
+    margin: 0 auto;
+    height: 30vh;
+}
+
+.googlelogo{
+    width: 280px;
+    margin-top: 150px;
+}
+
+.search{
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.input-search{
+    height: 40px;
+    width: 50vw;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.lucky{
+    padding-top: 50px;
+    
+    width: 100vw;
+    height: 38.5vh;
+    
+}
+
+.lucky button{
+    width: 160px;
+    height: 60px;
+}
+
+.lucky p{
+    text-align: center;
+}
+
+.footer{
+    
+    width: 100vw;
+    height: 15vh;
+    background-color: #F2F2F2;
+    padding: 20px;
+}
+
+.footer-ul{
+    list-style: none;
+}
+
+.footer-ul li{
+    display: inline;
+    margin-left: 20px;
+}
+
+.footer-ul li a{
+    text-decoration: none;
+    color: black
+}
+
+.footer-ul2{
+    list-style: none;
+}
+
+.footer-ul2 li{
+    display: inline;
+    margin-left: 20px;
+}
+
+.footer-ul2 li a{
+    text-decoration: none;
+    color: black
+}
